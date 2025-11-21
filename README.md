@@ -95,3 +95,4 @@ The clustering analysis on vehicle silhouettes can support:
   - Supports better feature engineering for future supervised models
 
 
+🎓 Academic Context: This repository documents one of the applied projects completed for the Data Mining module in my MSc in Data Science programme (May 2025).All results, code, and design choices are provided for educational purposes; actual performance may vary across environments and dataset revisions.
